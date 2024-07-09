@@ -1,5 +1,3 @@
-import collections
-
 x = list(map(str, input().split()))
 j = 0
 for i in x:
